@@ -48,14 +48,41 @@ There are several reasons why a used car might be hard to sell, such as high mil
 
 ![image](https://user-images.githubusercontent.com/55817845/209692153-323781f7-ea74-49b5-bc37-1dd2dcb805a4.png)
 
-The car with brand Lincoln will most likely will take a long time to be resell since averagely it takes more than 200 days to sell followed by Москвич russian car which it takes more than 150 days to resell.
+The car with brand __Lincoln will most likely will take a long time to be resell since averagely it takes more than 200 days__ to sell followed by Москвич russian car which it takes more than 150 days to resell.
 
 ![image](https://user-images.githubusercontent.com/55817845/209692186-d0ae14dc-59b4-45a4-9d19-c49a8ff34595.png)
 
-The used car that most likely to be resell faster is brand Rover and Seat. Both of these cars will averagely take less than 2 months to be resell again followed by Dacia, LADA, Skoda which take not more than 70 days to be resell
+The used car that most likely to be resell faster is brand __Rover and Seat__. Both of these cars will averagely take __less than 2 months to be resell__ again followed by __Dacia, LADA, Skoda which take not more than 70 days to be resell__
 
 So if someone that has car with brand Rover most likely it will be sell faster and the brand Lincoln will take a long time to be resell
 
-5. If someone want to know which car to buy for long term investment, which car brand has the highest resell values?
-6. What is the forecast for used car price in future?
+#### 4. If someone want to know which car to buy for long term investment, which car brand has the highest resell values?
 
+Some car brands and models tend to hold their value better over time, due to their reputation for reliability, performance, or other factors. In general, luxury cars, sports cars, and certain types of SUVs tend to have higher resale values, while more basic or economy models tend to have lower values.
+
+![image](https://user-images.githubusercontent.com/55817845/209692445-77dbcecc-ac51-49f1-b5f7-251b6c30d29d.png)
+
+Look like brand __Porsche , Jaguar and Lexus__ have high resell values compared to any other brand
+
+#### 5. What is the forecast for used car price in future?
+
+Before proceed to modelling process, first we should take several importance features/column from the dataset to ensure it is relevant to the output label when forecasting. Then we need to standardize or pre-process data to change it from strings to numeric value since machine learning are designed to work with numeric data, and they may not be able to handle string values directly. Second, using numeric values as features allows the data to be more easily standardized or normalized.
+
+In this model our target label is __Price__
+The features are __manufacturer_name, model_name, transmission, color odometer_value, year_produced, engine_capacity, has_warranty, duration_listed__
+
+![image](https://user-images.githubusercontent.com/55817845/209692927-32ed8ec4-7957-40db-954e-ec7267f8502d.png)
+
+In this model we use Random Forest Classifier. Some of the important metrics to measure the model
+
+* Mean Absolute Error: 113.47
+* Mean Squared Error: 24998.54
+* Root Mean Squared Error: 158.11
+* 91.72092296637284
+
+![image](https://user-images.githubusercontent.com/55817845/209693983-a8384437-7079-47a6-8d56-9170033f7024.png)
+
+
+![image](https://user-images.githubusercontent.com/55817845/209693891-5b545a7f-46cc-44ca-9efb-12fd93a25efb.png)
+
+From scatter plot above , we can see the comparison between prediction and actual values for the regression model.
