@@ -43,6 +43,19 @@ Most popular car is Volkswagen but there are many other cars in the catalog that
 ![image](https://user-images.githubusercontent.com/55817845/209691508-38339adb-f3c1-4952-b50a-a4477616f232.png)
 
 #### 3. How long the car is listed in the catalog?
+
+There are several reasons why a used car might be hard to sell, such as high mileage, wear and tear, a model or make that is not in high demand, a high price compared to its age or condition, and competition in the market. These factors can make the car less appealing to potential buyers and make it more difficult to sell.
+
+![image](https://user-images.githubusercontent.com/55817845/209692153-323781f7-ea74-49b5-bc37-1dd2dcb805a4.png)
+
+The car with brand Lincoln will most likely will take a long time to be resell since averagely it takes more than 200 days to sell followed by Москвич russian car which it takes more than 150 days to resell.
+
+![image](https://user-images.githubusercontent.com/55817845/209692186-d0ae14dc-59b4-45a4-9d19-c49a8ff34595.png)
+
+The used car that most likely to be resell faster is brand Rover and Seat. Both of these cars will averagely take less than 2 months to be resell again followed by Dacia, LADA, Skoda which take not more than 70 days to be resell
+
+So if someone that has car with brand Rover most likely it will be sell faster and the brand Lincoln will take a long time to be resell
+
 5. If someone want to know which car to buy for long term investment, which car brand has the highest resell values?
 6. What is the forecast for used car price in future?
 
