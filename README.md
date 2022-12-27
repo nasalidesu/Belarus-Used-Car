@@ -34,13 +34,15 @@ By implementing box plot and interquatile we can get the data dispersion and spr
 
 ![image](https://user-images.githubusercontent.com/55817845/209690929-7a0db056-e032-486e-a5cd-e545f11ec5ff.png)
 
-2. Which brand is for used car is most and least popular?
+#### 2. Which brand is for used car is most and least popular?
 
 There are many reasons why people choose to buy specific cars. Some people may be drawn to a particular make or model of car because of its reputation for reliability, performance, or safety. Others may be attracted to the features or technology offered by a particular car, or they may be drawn to the car's appearance or style. Some people may choose a car based on its fuel efficiency or environmental impact, while others may be more focused on the car's price or value. Ultimately, the specific car that someone chooses to buy will depend on their individual needs and preferences, as well as their budget and other personal considerations.
 
+Most popular car is Volkswagen but there are many other cars in the catalog that significantly have high in number such as Opel, BMW, renault, Mercedes, Audi.
+
 ![image](https://user-images.githubusercontent.com/55817845/209691508-38339adb-f3c1-4952-b50a-a4477616f232.png)
 
-4. How long the car is listed in the catalog?
+#### 3. How long the car is listed in the catalog?
 5. If someone want to know which car to buy for long term investment, which car brand has the highest resell values?
 6. What is the forecast for used car price in future?
 
