@@ -79,6 +79,7 @@ In this model we use Random Forest Classifier. Some of the important metrics to 
 * Mean Squared Error: 24998.54
 * Root Mean Squared Error: 158.11
 * 91.72092296637284
+The regression score for the model is __91.72__ which quite impressive score for the model!
 
 ![image](https://user-images.githubusercontent.com/55817845/209693983-a8384437-7079-47a6-8d56-9170033f7024.png)
 
